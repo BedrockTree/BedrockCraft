@@ -1,0 +1,15 @@
+[
+{
+  "modid": "bedrockcraft",
+  "name": "BedrockCraft",
+  "description": "A minecraft mod about bedrock",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Frank__Wang","SmallBlack53"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
