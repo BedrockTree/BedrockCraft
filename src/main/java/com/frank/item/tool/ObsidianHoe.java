@@ -13,4 +13,3 @@ public class ObsidianHoe extends ItemHoe {
         this.setCreativeTab(CreativeTabs.TOOLS);
     }
 }
-
